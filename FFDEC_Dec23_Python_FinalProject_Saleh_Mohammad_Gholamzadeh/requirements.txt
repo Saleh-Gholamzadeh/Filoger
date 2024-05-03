@@ -1,0 +1,11 @@
+requests
+jdatetime
+openpyxl
+Faker
+python-dotenv
+pandas
+numpy
+argparse
+logging
+prettytable
+locale
